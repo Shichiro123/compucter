@@ -1,0 +1,13 @@
+header a {
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 5px;
+    margin: 10px;
+}
+header {
+    background-color:grey;
+}
